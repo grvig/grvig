@@ -1,4 +1,4 @@
-<h2 align="center">hi, i'm gr!</h2>
+<h3 align="center">hi, i'm gr!</h3>
 <p align="center">i'm a third year student at vit chennai studying ai and machine learning</p>
 <div align=center>
 <img src="https://img.shields.io/badge/linkedin-grvignesh-6c8fd2" alt="badge" />
