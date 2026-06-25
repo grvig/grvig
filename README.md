@@ -10,6 +10,8 @@
   </a>
 </div>
 
+<br>
+
 <!-- ============ SOCIALS + VIEWS ============ -->
 <div align="center">
   <a href="https://www.linkedin.com/in/grvignesh">
