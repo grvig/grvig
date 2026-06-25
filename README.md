@@ -28,41 +28,41 @@
 <div align="center">
 
 #### `languages`
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" height="28" width="28" alt="c" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height="28" width="28" alt="cplusplus" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="28" width="28" alt="python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" height="28" width="28" alt="java" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="28" width="28" alt="kotlin" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="28" width="28" alt="javascript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" height="28" width="28" alt="typescript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="28" width="28" alt="lua" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height="28" width="28" alt="matlab" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" height="28" width="28" alt="c" title="C" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height="28" width="28" alt="cplusplus" title="C++" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="28" width="28" alt="python" title="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" height="28" width="28" alt="java" title="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="28" width="28" alt="kotlin" title="Kotlin" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="28" width="28" alt="javascript" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" height="28" width="28" alt="typescript" title="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="28" width="28" alt="lua" title="Lua" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height="28" width="28" alt="matlab" title="MATLAB" />
 
 #### `frontend`
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height="28" width="28" alt="html5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" height="28" width="28" alt="css3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="28" width="28" alt="react" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="28" width="28" alt="nextjs" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="28" width="28" alt="tailwindcss" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" height="28" width="28" alt="electron" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" height="28" width="28" alt="p5js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chartjs/chartjs-plain.svg" height="28" width="28" alt="chartjs" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height="28" width="28" alt="html5" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" height="28" width="28" alt="css3" title="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="28" width="28" alt="react" title="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="28" width="28" alt="nextjs" title="Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="28" width="28" alt="tailwindcss" title="Tailwind CSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" height="28" width="28" alt="electron" title="Electron" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" height="28" width="28" alt="p5js" title="p5.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chartjs/chartjs-plain.svg" height="28" width="28" alt="chartjs" title="Chart.js" />
 
-#### `backend & databases`
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="28" width="28" alt="nodejs" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" height="28" width="28" alt="fastapi" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="28" width="28" alt="swagger" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" height="28" width="28" alt="mongodb" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="28" width="28" alt="mysql" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" height="28" width="28" alt="postgresql" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="28" width="28" alt="sqlite" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="28" width="28" alt="microsoftsqlserver" />
+#### \`backend & databases\`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="28" width="28" alt="nodejs" title="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" height="28" width="28" alt="fastapi" title="FastAPI" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="28" width="28" alt="swagger" title="Swagger" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" height="28" width="28" alt="mongodb" title="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="28" width="28" alt="mysql" title="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" height="28" width="28" alt="postgresql" title="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="28" width="28" alt="sqlite" title="SQLite" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="28" width="28" alt="microsoftsqlserver" title="Microsoft SQL Server" />
 
-#### `mobile, data & other`
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain.svg" height="28" width="28" alt="androidstudio" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="28" width="28" alt="flutter" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="28" width="28" alt="pandas" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourceengine/sourceengine-original.svg" height="28" width="28" alt="sourceengine" />
+#### \`mobile, data & other\`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain.svg" height="28" width="28" alt="androidstudio" title="Android Studio" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="28" width="28" alt="flutter" title="Flutter" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="28" width="28" alt="pandas" title="pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourceengine/sourceengine-original.svg" height="28" width="28" alt="sourceengine" title="Source Engine" />
 
 </div>
 
