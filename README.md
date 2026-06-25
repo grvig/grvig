@@ -1,12 +1,12 @@
 <!-- ============ HEADER WAVE ============ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,100:7aa2f7&text=gr&fontColor=c0caf5&fontSize=70&fontAlignY=38&animation=fadeIn&desc=ai%20and%20machine%20learning%20%7C%20builder&descSize=16&descAlignY=60" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,100:7aa2f7&text=gr&fontColor=c0caf5&fontSize=70&fontAlignY=38&animation=fadeIn" alt="header" />
 </div>
 
 <!-- ============ TYPING INTRO ============ -->
 <div align="center">
   <a href="https://github.com/grvig">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=hi%2C+i'm+gr+%F0%9F%91%8B;third+year+ai+%26+ml+student+%40+vit+chennai;currently+learning+lua+%26+godot+scripting;always+building+something+new" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=hi%2C+i'm+gr;third+year+ai+%26+ml+student+%40+vit+chennai;currently+learning+lua+%26+godot+scripting;always+building+something+new" alt="typing intro" />
   </a>
 </div>
 
@@ -18,7 +18,6 @@
   <a href="mailto:grvig06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-grvig06-bb9af7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="mail" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=grvig&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS&labelColor=1a1b27" alt="profile views" />
 </div>
 
 <br>
@@ -69,7 +68,7 @@
 
 <!-- ============ STAT CARDS ============ -->
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=grvig&show_icons=true&hide_border=true&border_radius=8&include_all_commits=true&count_private=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b27" alt="stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=grvig&show_icons=true&hide_border=true&border_radius=8&count_private=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b27" alt="stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=grvig&layout=compact&hide_border=true&border_radius=8&langs_count=10&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b27&custom_title=languages" alt="top langs" />
 </div>
 
