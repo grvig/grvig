@@ -1,0 +1,36 @@
+name: generate snake animation
+
+on:
+  # run automatically once a day
+  schedule:
+    - cron: "0 0 * * *"
+  # let you run it manually from the Actions tab
+  workflow_dispatch:
+  # run on every push to main
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: generate snake svg (tokyo night themed)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#7dcfff&color_dots=#1a1b27,#2a3158,#414868,#7aa2f7,#bb9af7
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: push svg to the output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "update snake animation [skip ci]"
