@@ -1,6 +1,6 @@
 <!-- ============ HEADER WAVE ============ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,100:7aa2f7&text=gr&fontColor=c0caf5&fontSize=70&fontAlignY=38&animation=fadeIn&desc=ai%20%26%20machine%20learning%20%7C%20builder&descSize=16&descAlignY=60" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,100:7aa2f7&text=gr&fontColor=c0caf5&fontSize=70&fontAlignY=38&animation=fadeIn&desc=ai%20and%20machine%20learning%20%7C%20builder&descSize=16&descAlignY=60" alt="header" />
 </div>
 
 <!-- ============ TYPING INTRO ============ -->
@@ -85,20 +85,6 @@
 <!-- ============ ACTIVITY GRAPH ============ -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=grvig&theme=tokyo-night&hide_border=true&radius=8&height=300&days=30&area=true&hide_title=true&grid=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=bb9af7" alt="activity graph" />
-</div>
-
-<br>
-
-<!-- ============ TROPHIES ============ -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=grvig&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
-</div>
-
-<br>
-
-<!-- ============ CONTRIBUTION SNAKE ============ -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/grvig/grvig/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 <!-- ============ FOOTER WAVE ============ -->
