@@ -48,7 +48,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" height="28" width="28" alt="p5js" title="p5.js" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chartjs/chartjs-plain.svg" height="28" width="28" alt="chartjs" title="Chart.js" />
 
-#### \`backend & databases\`
+#### `backend & databases`
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="28" width="28" alt="nodejs" title="Node.js" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" height="28" width="28" alt="fastapi" title="FastAPI" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="28" width="28" alt="swagger" title="Swagger" />
@@ -58,7 +58,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="28" width="28" alt="sqlite" title="SQLite" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="28" width="28" alt="microsoftsqlserver" title="Microsoft SQL Server" />
 
-#### \`mobile, data & other\`
+#### `mobile, data & other`
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain.svg" height="28" width="28" alt="androidstudio" title="Android Studio" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="28" width="28" alt="flutter" title="Flutter" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="28" width="28" alt="pandas" title="pandas" />
