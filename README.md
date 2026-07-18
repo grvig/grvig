@@ -12,7 +12,7 @@
 
 <br>
 
-<!-- ============ SOCIALS + VIEWS ============ -->
+<!-- ============ SOCIALS ============ -->
 <div align="center">
   <a href="https://www.linkedin.com/in/grvignesh">
     <img src="https://img.shields.io/badge/LinkedIn-grvignesh-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="linkedin" />
@@ -70,15 +70,15 @@
 
 <!-- ============ STAT CARDS ============ -->
 <div align="center">
-  <img height="180" src="https://github-readme-stats-dun-one-47.vercel.app/api?username=grvig&show_icons=true&hide_border=true&border_radius=8&count_private=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b27" alt="stats" />
-  <img height="180" src="https://github-readme-stats-dun-one-47.vercel.app/api/top-langs?username=grvig&layout=compact&hide_border=true&border_radius=8&langs_count=10&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b27&custom_title=languages" alt="top langs" />
+  <img height="180" src="https://github-readme-stats-dun-one-47.vercel.app/api?username=grvig&show_icons=true&include_all_commits=true&hide_border=true&border_radius=8&count_private=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b27" alt="stats" />
+  <img height="180" src="https://github-readme-stats-dun-one-47.vercel.app/api/top-langs?username=grvig&layout=compact&hide_border=true&border_radius=8&langs_count=8&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b27&custom_title=languages" alt="top langs" />
 </div>
 
 <br>
 
 <!-- ============ STREAK ============ -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=grvig&hide_border=true&border_radius=8&background=1a1b27&border=1a1b27&stroke=7aa2f7&ring=bb9af7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=565f89&sideNums=c0caf5&currStreakNum=c0caf5&short_numbers=true&exclude_days=Sun&card_width=700" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=grvig&hide_border=true&border_radius=8&background=1a1b27&border=1a1b27&stroke=7aa2f7&ring=bb9af7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=565f89&sideNums=c0caf5&currStreakNum=c0caf5&short_numbers=true&exclude_days=Sun&card_width=820" alt="streak" />
 </div>
 
 <br>
