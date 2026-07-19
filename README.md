@@ -70,8 +70,8 @@
 
 <!-- ============ STAT CARDS ============ -->
 <div align="center">
-  <img height="180" src="https://github-readme-stats-dun-one-47.vercel.app/api?username=grvig&show_icons=true&include_all_commits=true&hide_border=true&border_radius=8&count_private=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b27" alt="stats" />
-  <img height="180" src="https://github-readme-stats-dun-one-47.vercel.app/api/top-langs?username=grvig&layout=compact&hide_border=true&border_radius=8&langs_count=8&exclude_repo=screenity,bouncing_boxes,bouncing_ball,ping_pong,my_city,trex_code,librarydemo&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b27&custom_title=languages" alt="top langs" />
+  <img height="180" src="https://github-readme-stats-dun-one-47.vercel.app/api?username=grvig&show_icons=true&include_all_commits=true&hide_border=true&border_radius=8&count_private=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b27&v=2" alt="stats" />
+  <img height="180" src="https://github-readme-stats-dun-one-47.vercel.app/api/top-langs?username=grvig&layout=compact&hide_border=true&border_radius=8&langs_count=8&exclude_repo=screenity,bouncing_boxes,bouncing_ball,ping_pong,my_city,trex_code,librarydemo&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b27&custom_title=languages&v=2" alt="top langs" />
 </div>
 
 <br>
