@@ -6,7 +6,7 @@
 <!-- ============ TYPING INTRO ============ -->
 <div align="center">
   <a href="https://github.com/grvig">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=hi%2C+i'm+gr!;third+year+ai+%26+ml+student+%40+vit+chennai;currently+learning+lua+%26+sl2+scripting" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=hi%2C+i'm+gr!;third+year+ai+%26+ml+student+%40+vit+chennai;currently+learning+lua,+.dem+%26+sl2+scripting" alt="typing intro" />
   </a>
 </div>
 
