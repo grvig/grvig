@@ -58,11 +58,9 @@
 </div>
 
 <!-- ============ ACTIVITY GRAPH ============ -->
-<!-- the public activity-graph server is down; deploy your own copy on vercel, put its address in place of YOUR-INSTANCE below, then remove these comment markers
 <div align="center">
-  <img src="https://YOUR-INSTANCE.vercel.app/graph?username=grvig&hide_border=true&radius=12&height=300&area=true&grid=true&hide_title=true&bg_color=1a1b27&color=c0caf5&line=7aa2f7&point=bb9af7&area_color=7aa2f7" width="100%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph-weld-three-18.vercel.app/graph?username=grvig&hide_border=true&radius=12&height=300&area=true&grid=true&hide_title=true&bg_color=1a1b27&color=c0caf5&line=7aa2f7&point=bb9af7&area_color=7aa2f7" width="100%" alt="activity graph" />
 </div>
--->
 
 <br>
 
