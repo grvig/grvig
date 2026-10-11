@@ -1,12 +1,7 @@
-<!-- ============ HEADER WAVE ============ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,100:7aa2f7&text=gr&fontColor=c0caf5&fontSize=70&fontAlignY=38&animation=fadeIn" alt="header" />
-</div>
-
-<!-- ============ TYPING INTRO ============ -->
+<!-- ============ HEADER ============ -->
 <div align="center">
   <a href="https://github.com/grvig">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=hi%2C+i'm+gr!;third+year+ai+%26+ml+student+%40+vit+chennai;currently+learning+lua,+.dem+%26+sl2+scripting" alt="typing intro" />
+    <img src="assets/header.svg" width="100%" alt="hi, i'm gr! third year ai & ml student @ vit chennai, currently learning lua, .dem & sl2 scripting" />
   </a>
 </div>
 
@@ -24,71 +19,54 @@
 
 <br>
 
-<!-- ============ TECH STACK ============ -->
+<!-- ============ PROJECTS ============ -->
 <div align="center">
+  <img src="assets/label-projects.svg" width="100%" alt="projects" />
+</div>
 
-#### `languages`
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" height="28" width="28" alt="c" title="C" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height="28" width="28" alt="cplusplus" title="C++" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="28" width="28" alt="python" title="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" height="28" width="28" alt="java" title="Java" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="28" width="28" alt="kotlin" title="Kotlin" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="28" width="28" alt="javascript" title="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" height="28" width="28" alt="typescript" title="TypeScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="28" width="28" alt="lua" title="Lua" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height="28" width="28" alt="matlab" title="MATLAB" />
-
-#### `frontend`
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height="28" width="28" alt="html5" title="HTML5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" height="28" width="28" alt="css3" title="CSS3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="28" width="28" alt="react" title="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="28" width="28" alt="nextjs" title="Next.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="28" width="28" alt="tailwindcss" title="Tailwind CSS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" height="28" width="28" alt="electron" title="Electron" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" height="28" width="28" alt="p5js" title="p5.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chartjs/chartjs-plain.svg" height="28" width="28" alt="chartjs" title="Chart.js" />
-
-#### `backend & databases`
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="28" width="28" alt="nodejs" title="Node.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" height="28" width="28" alt="fastapi" title="FastAPI" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="28" width="28" alt="swagger" title="Swagger" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" height="28" width="28" alt="mongodb" title="MongoDB" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="28" width="28" alt="mysql" title="MySQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" height="28" width="28" alt="postgresql" title="PostgreSQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="28" width="28" alt="sqlite" title="SQLite" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="28" width="28" alt="microsoftsqlserver" title="Microsoft SQL Server" />
-
-#### `mobile, data & other`
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain.svg" height="28" width="28" alt="androidstudio" title="Android Studio" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="28" width="28" alt="flutter" title="Flutter" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="28" width="28" alt="pandas" title="pandas" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourceengine/sourceengine-original.svg" height="28" width="28" alt="sourceengine" title="Source Engine" />
-
+<div align="center">
+  <a href="https://github.com/grvig/finance-tracker-android"><img src="assets/project-finance-tracker.svg" width="49%" alt="finance-tracker-android: multi-user expenditure tracker and budgeting tool for android" /></a>
+  <a href="https://github.com/grvig/grimdawn"><img src="assets/project-gdpilot.svg" width="49%" alt="gdpilot: controller layer for grim dawn with grid-aware inventory navigation" /></a>
+</div>
+<div align="center">
+  <a href="https://github.com/grvig/osump3"><img src="assets/project-osump3.svg" width="49%" alt="osump3: one-click tagged mp3 downloads from any osu! beatmap page" /></a>
+  <a href="https://github.com/grvig/daily-dashboard"><img src="assets/project-daily-dashboard.svg" width="49%" alt="daily-dashboard: personal morning dashboard served by fastapi with sqlite storage" /></a>
 </div>
 
 <br>
 
-<!-- ============ STAT CARDS ============ -->
+<!-- ============ TECH STACK ============ -->
+<div align="center">
+  <img src="assets/label-stack.svg" width="100%" alt="tech stack" />
+</div>
+
+<div align="center">
+  <img src="assets/stack.svg" width="100%" alt="languages: C, C++, Python, Java, Kotlin, JavaScript, TypeScript, Lua, MATLAB. frontend: HTML5, CSS3, React, Next.js, Tailwind CSS, Electron, p5.js, Chart.js. backend & databases: Node.js, FastAPI, Swagger, MongoDB, MySQL, PostgreSQL, SQLite, Microsoft SQL Server. mobile, data & other: Android Studio, Flutter, pandas, Source Engine" />
+</div>
+
+<br>
+
+<!-- ============ GITHUB STATS ============ -->
+<div align="center">
+  <img src="assets/label-stats.svg" width="100%" alt="github stats" />
+</div>
+
 <div align="center">
   <img height="180" src="https://github-readme-stats-dun-one-47.vercel.app/api?username=grvig&show_icons=true&include_all_commits=true&hide_border=true&border_radius=8&count_private=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b27&v=2" alt="stats" />
   <img height="180" src="https://github-readme-stats-dun-one-47.vercel.app/api/top-langs?username=grvig&layout=compact&hide_border=true&border_radius=8&langs_count=8&exclude_repo=screenity,bouncing_boxes,bouncing_ball,ping_pong,my_city,trex_code,librarydemo&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b27&custom_title=languages&v=2" alt="top langs" />
 </div>
 
-<br>
-
-<!-- ============ STREAK ============ -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=grvig&hide_border=true&border_radius=8&background=1a1b27&border=1a1b27&stroke=7aa2f7&ring=bb9af7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=565f89&sideNums=c0caf5&currStreakNum=c0caf5&short_numbers=true&exclude_days=Sun&card_width=820" alt="streak" />
 </div>
 
-<br>
-
-<!-- ============ ACTIVITY GRAPH ============ -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=grvig&theme=tokyo-night&hide_border=true&radius=8&height=300&days=30&area=true&hide_title=true&grid=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=bb9af7" alt="activity graph" />
 </div>
 
-<!-- ============ FOOTER WAVE ============ -->
+<br>
+
+<!-- ============ FOOTER ============ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7aa2f7,100:1a1b27&section=footer&reversal=true" alt="footer" />
+  <img src="assets/footer.svg" width="100%" alt="thanks for stopping by" />
 </div>
