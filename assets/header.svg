@@ -49,12 +49,6 @@
 .word{animation:rise 0.9s ease-out both;}
 @keyframes breathe{0%,100%{opacity:0.32}50%{opacity:0.5}}
 .halo{animation:breathe 6s ease-in-out infinite;}
-@media (prefers-reduced-motion: reduce){
-  .cover{animation:none;transform:translateX(636.0px);}
-  .ln0,.ln2{animation:none;opacity:0;}
-  .ln1{animation:none;opacity:1;}
-  .w1,.w2,.word,.halo,.caret{animation:none;}
-}
 .t{font-family:'FC', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;font-variant-ligatures:none;}
 </style>
 <defs>

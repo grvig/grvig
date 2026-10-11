@@ -6,7 +6,6 @@
 @keyframes drift{from{transform:translateX(0)}to{transform:translateX(-840px)}}
 .w1{animation:drift 24s linear infinite;}
 .w2{animation:drift 36s linear infinite reverse;}
-@media (prefers-reduced-motion: reduce){.w1,.w2{animation:none;}}
 .t{font-family:'FC', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;font-variant-ligatures:none;}
 </style>
 <defs><linearGradient id="fb" x1="0" y1="0" x2="1" y2="1">
