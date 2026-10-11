@@ -19,22 +19,6 @@
 
 <br>
 
-<!-- ============ PROJECTS ============ -->
-<div align="center">
-  <img src="assets/label-projects.svg" width="100%" alt="projects" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/grvig/finance-tracker-android"><img src="assets/project-finance-tracker.svg" width="49%" alt="finance-tracker-android: multi-user expenditure tracker and budgeting tool for android" /></a>
-  <a href="https://github.com/grvig/grimdawn"><img src="assets/project-gdpilot.svg" width="49%" alt="gdpilot: controller layer for grim dawn with grid-aware inventory navigation" /></a>
-</div>
-<div align="center">
-  <a href="https://github.com/grvig/osump3"><img src="assets/project-osump3.svg" width="49%" alt="osump3: one-click tagged mp3 downloads from any osu! beatmap page" /></a>
-  <a href="https://github.com/grvig/daily-dashboard"><img src="assets/project-daily-dashboard.svg" width="49%" alt="daily-dashboard: personal morning dashboard served by fastapi with sqlite storage" /></a>
-</div>
-
-<br>
-
 <!-- ============ TECH STACK ============ -->
 <div align="center">
   <img src="assets/label-stack.svg" width="100%" alt="tech stack" />
@@ -46,23 +30,39 @@
 
 <br>
 
+<!-- ============ PROJECTS ============ -->
+<!-- each row is kept on one line on purpose: whitespace between the images would break the alignment -->
+<div align="center">
+  <img src="assets/label-projects.svg" width="100%" alt="projects" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/grvig/finance-tracker-android"><img src="assets/project-finance-tracker.svg" width="49.5%" alt="finance-tracker-android: multi-user expenditure tracker and budgeting tool for android" /></a><img src="assets/gap.svg" width="1%" alt="" /><a href="https://github.com/grvig/customer-analysis-project"><img src="assets/project-customer-analysis.svg" width="49.5%" alt="customer-analysis-project: business intelligence tool that analyzes databases with natural-language queries" /></a>
+</div>
+<div align="center">
+  <a href="https://github.com/grvig/grimdawn"><img src="assets/project-gdpilot.svg" width="49.5%" alt="gdpilot: controller layer for grim dawn with grid-aware inventory navigation" /></a><img src="assets/gap.svg" width="1%" alt="" /><a href="https://github.com/grvig/mccs"><img src="assets/project-mccs.svg" width="49.5%" alt="mccs: port of cs:go movement and air acceleration to minecraft 1.21.11" /></a>
+</div>
+
+<br>
+
 <!-- ============ GITHUB STATS ============ -->
 <div align="center">
   <img src="assets/label-stats.svg" width="100%" alt="github stats" />
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-dun-one-47.vercel.app/api?username=grvig&show_icons=true&include_all_commits=true&hide_border=true&border_radius=8&count_private=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b27&v=2" alt="stats" />
-  <img height="180" src="https://github-readme-stats-dun-one-47.vercel.app/api/top-langs?username=grvig&layout=compact&hide_border=true&border_radius=8&langs_count=8&exclude_repo=screenity,bouncing_boxes,bouncing_ball,ping_pong,my_city,trex_code,librarydemo&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b27&custom_title=languages&v=2" alt="top langs" />
+  <img src="https://github-readme-stats-dun-one-47.vercel.app/api?username=grvig&show_icons=true&include_all_commits=true&count_private=true&hide=prs&hide_border=true&border_radius=12&card_width=437&line_height=29&rank_icon=github&text_bold=false&custom_title=overview&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&ring_color=bb9af7&bg_color=1a1b27&v=3" width="49.5%" alt="stats" /><img src="assets/gap.svg" width="1%" alt="" /><img src="https://github-readme-stats-dun-one-47.vercel.app/api/top-langs?username=grvig&layout=compact&langs_count=8&exclude_repo=screenity,bouncing_boxes,bouncing_ball,ping_pong,my_city,trex_code,librarydemo&hide_border=true&border_radius=12&card_width=437&custom_title=languages&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b27&v=3" width="49.5%" alt="top languages" />
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=grvig&hide_border=true&border_radius=12&card_width=840&card_height=190&background=1a1b27&border=1a1b27&stroke=7aa2f7&ring=bb9af7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=565f89&sideNums=c0caf5&currStreakNum=c0caf5&short_numbers=true&exclude_days=Sun" width="100%" alt="streak" />
 </div>
 
+<!-- ============ ACTIVITY GRAPH ============ -->
+<!-- the public activity-graph server is down; deploy your own copy on vercel, put its address in place of YOUR-INSTANCE below, then remove these comment markers
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=grvig&hide_border=true&border_radius=8&background=1a1b27&border=1a1b27&stroke=7aa2f7&ring=bb9af7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=565f89&sideNums=c0caf5&currStreakNum=c0caf5&short_numbers=true&exclude_days=Sun&card_width=820" alt="streak" />
+  <img src="https://YOUR-INSTANCE.vercel.app/graph?username=grvig&hide_border=true&radius=12&height=300&area=true&grid=true&hide_title=true&bg_color=1a1b27&color=c0caf5&line=7aa2f7&point=bb9af7&area_color=7aa2f7" width="100%" alt="activity graph" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=grvig&theme=tokyo-night&hide_border=true&radius=8&height=300&days=30&area=true&hide_title=true&grid=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=bb9af7" alt="activity graph" />
-</div>
+-->
 
 <br>
 

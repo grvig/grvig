@@ -21,5 +21,5 @@
 </defs>
 <rect class="ll" x="131.4" y="20" width="210" height="1.2" fill="url(#fl)"/>
 <rect class="lr" x="498.6" y="20" width="210" height="1.2" fill="url(#fr)"/>
-<text class="t" x="359.4" y="25" font-size="13" letter-spacing="2.5"><tspan fill="#bb9af7">01</tspan><tspan fill="#565f89" dx="20.6">projects</tspan></text>
+<text class="t" x="359.4" y="25" font-size="13" letter-spacing="2.5"><tspan fill="#bb9af7">02</tspan><tspan fill="#565f89" dx="20.6">projects</tspan></text>
 </svg>
